@@ -1,5 +1,5 @@
 # Loan Predictions
-#### This repo contains analysis and models for loan prediction models
+#### This repo contains analysis and models for loan prediction project.
 
 
 
